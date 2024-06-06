@@ -1,0 +1,40 @@
+@media (max-width: 46.1875em) {
+    .letter {
+        height: unset;
+    }
+
+    .body-hpbd {
+        
+        margin: 50px;
+        padding: 10px;
+    }
+
+    .hpbd-image, .hpbd-letter {
+        width: 100%;
+    }
+    
+    .row.flex-column {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+@media(max-width: 63.9375em) {
+    .letter {
+        height: unset;
+    }
+
+    .body-hpbd {
+        margin: 50px;
+        padding: 10px;
+    }
+
+    .hpbd-image, .hpbd-letter {
+        width: 100%;
+    }
+    
+    .row.flex-column {
+        display: flex;
+        flex-direction: column;
+    }
+}
